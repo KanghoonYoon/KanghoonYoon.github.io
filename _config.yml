@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My Website
+title: Kanghoon Yoon
 
 # Your name to show in the footer
-author: Some Person
+author: Kanghoon Yoon
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -21,10 +21,11 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  # Resources:
+  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
+  # - Learn markdown: "https://www.markdowntutorial.com/"
+  Github: "https://github.com/KanghoonYoon"
+  Twitter: "https://twitter.com/Kanghoon_Yoon"
 
 ################
 # --- Logo --- #
@@ -49,13 +50,13 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
+  email: "ykhoon08@kaist.ac.kr"
+# rss: true  # remove this line if you don't want to show an RSS link at the bottom
+# facebook: deanattali
   github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  twitter: "https://twitter.com/Kanghoon_Yoon"
+# patreon: DeanAttali
+# youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -88,7 +89,7 @@ rss-description: This website is a virtual proof that I'm awesome
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   linkedin: true
   vk: false
 
