@@ -1,7 +1,6 @@
 ---
 layout: page
 ---
-
 ### Publication
 **Unbiased Heterogeneous Scene Graph Generation with Relation-aware Message Passing Neural Network.** 
 **Kanghoon Yoon.** Kibum Kim. Jinyoung Moon. Chanyoung Park.
