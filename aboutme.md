@@ -24,6 +24,6 @@ Shinhan Card
 
 
 ### Teaching Assistant
-2022 Fall - 2nd Data Science Competetion in KAIST.
+2022 Fall - 2nd Data Science Competetion in KAIST.  
 2020 Spring - IE241, Engineering Statistics.
 
