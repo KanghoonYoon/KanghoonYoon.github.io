@@ -18,9 +18,9 @@ ACM International Conference on Information and Knowledge Management (**CIKM-22*
 **2021- Now** Visual Intelligence Technique Development  
 Electronics and Telecommunications Research Institute (**ETRI**)  
 **2020-2021** Recommendation System for Personalized User and Stores  
-Shinhan Card  
+**Shinhan Card**  
 **2019-2020** Personalized User Analysis based on Machine Learning Model  
-Shinhan Card
+**Shinhan Card**
 
 
 ### Teaching Assistant
