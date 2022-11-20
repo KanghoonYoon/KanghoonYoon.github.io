@@ -25,5 +25,7 @@ Shinhan Card
 
 ### Teaching Assistant
 2022 Fall - 2nd Data Science Competition in KAIST.  
+2021 Fall - LG AI Process Education, Intermediate Course.  
+2020 Fall - LG AI Process Education, Beginner Course.  
 2020 Spring - IE241, Engineering Statistics.
 
