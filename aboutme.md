@@ -5,13 +5,13 @@ title: About Me
 
 ### Publication
 
-**Unbiased Heterogeneous Scene Graph Generation with Relation-aware Message Passing Neural Network.**  
+**Unbiased Heterogeneous Scene Graph Generation with Relation-aware Message Passing Neural Network.**  pdf, [code]
 **Kanghoon Yoon.** Kibum Kim. Jinyoung Moon. Chanyoung Park.  
-**AAAI 2023** - Thirty-Seventh AAAI Conference on Artificial Intelligence.  
+Thirty-Seventh AAAI Conference on Artificial Intelligence **(AAAI-23)**  
 
-**LTE4G: Long-Tail Experts for Graph Neural Networks.**  
+**LTE4G: Long-Tail Experts for Graph Neural Networks.**  pdf, code
 Sukwon Yun, Kibum Kim, **Kanghoon Yoon**, Chanyoung Park.  
-**CIKM 2022** - ACM International Conference on Information and Knowledge Management  
+ACM International Conference on Information and Knowledge Management (**CIKM-22**)
 
 ### Project
 
