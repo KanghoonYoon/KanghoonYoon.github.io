@@ -5,11 +5,11 @@ title: Research
 
 ### Publication
 
-**Unbiased Heterogeneous Scene Graph Generation with Relation-aware Message Passing Neural Network.**  [pdf], [code]  
+**Unbiased Heterogeneous Scene Graph Generation with Relation-aware Message Passing Neural Network.**  [pdf], [code](https://github.com/KanghoonYoon/hetsgg-torch)  
 **Kanghoon Yoon.** Kibum Kim. Jinyoung Moon. Chanyoung Park.  
 Thirty-Seventh AAAI Conference on Artificial Intelligence **(AAAI-23)**  
 
-**LTE4G: Long-Tail Experts for Graph Neural Networks.**  [pdf], [code]  
+**LTE4G: Long-Tail Experts for Graph Neural Networks.**  [pdf], [code](https://github.com/SukwonYun/LTE4G)
 Sukwon Yun, Kibum Kim, **Kanghoon Yoon**, Chanyoung Park.  
 ACM International Conference on Information and Knowledge Management (**CIKM-22**)
 
