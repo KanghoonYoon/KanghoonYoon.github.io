@@ -20,7 +20,7 @@ author: Kanghoon Yoon
 ###############################################
 
 navbar-links:
-  CV:"kanghoonyoon.github.io/assets/resume_kanghoon.pdf"
+  CV: "kanghoonyoon.github.io/assets/resume_kanghoon.pdf"
   Research: "aboutme"
   # Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
