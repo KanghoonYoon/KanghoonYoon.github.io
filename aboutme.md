@@ -6,16 +6,16 @@ title: Research
 ### Publication
 
 **Similarity Preserving Adversarial Graph Contrastive Learning.**  [[pdf]()], [[code](https://github.com/KanghoonYoon/)]  
-Yeonjun In*, <ins>Kanghoon Yoon*</ins>, Chanyoung Park
-29th ACM SIGKDD Conference on KDD. Research Track **(KDD'23)**
+Yeonjun In*, <ins>Kanghoon Yoon*</ins>, Chanyoung Park.
+29th ACM SIGKDD Conference on KDD. Research Track. **(KDD'23)**
 
 **Molecular Pair Scoring with Causal Substructure.**  [[pdf]()], [[code](https://github.com/KanghoonYoon/)]  
-Namkyeong Lee, <ins>Kanghoon Yoon</ins>, Gyoung S. Na, Sein Kim, Chanyoung Park
-29th ACM SIGKDD Conference on KDD. Research Track **(KDD'23)**
+Namkyeong Lee, <ins>Kanghoon Yoon</ins>, Gyoung S. Na, Sein Kim, Chanyoung Park.
+29th ACM SIGKDD Conference on KDD. Research Track. **(KDD'23)**
 
 **Learning Multivariate Hawkes Process via Graph Recurrent Neural Network.**  [[pdf]()], [[code](https://github.com/KanghoonYoon/)]  
 <ins>Kanghoon Yoon*</ins>. Youngjun Im*. Jingyu Choi, Taehwan Jeong, Jinkyoo Park.
-29th ACM SIGKDD Conference on KDD. Applied Data Science Track **(KDD'23)**
+29th ACM SIGKDD Conference on KDD. Applied Data Science Track. **(KDD'23)**
 
 **Unbiased Heterogeneous Scene Graph Generation with Relation-aware Message Passing Neural Network.**  [[pdf](https://arxiv.org/abs/2212.00443)], [[code](https://github.com/KanghoonYoon/hetsgg-torch)]  
 <ins>Kanghoon Yoon</ins>*. Kibum Kim*. Jinyoung Moon. Chanyoung Park.  
