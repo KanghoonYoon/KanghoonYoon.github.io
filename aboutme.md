@@ -6,10 +6,12 @@ title: Research
 ### Publication
 
 **Similarity Preserving Adversarial Graph Contrastive Learning.**  [[pdf]()], [[code](https://github.com/KanghoonYoon/)]  
-Yeonjun In\*, <ins>Kanghoon Yoon</ins>\*, Chanyoung Park. 
+
+Yeonjun In\*, <ins>Kanghoon Yoon</ins>\*, Chanyoung Park.  
 29th ACM SIGKDD Conference on KDD. Research Track. **(KDD'23)**
 
 **Molecular Pair Scoring with Causal Substructure.**  [[pdf]()], [[code](https://github.com/KanghoonYoon/)]  
+
 Namkyeong Lee, <ins>Kanghoon Yoon</ins>, Gyoung S. Na, Sein Kim, Chanyoung Park. 
 29th ACM SIGKDD Conference on KDD. Research Track. **(KDD'23)**
 
