@@ -18,7 +18,7 @@ Namkyeong Lee, <ins>Kanghoon Yoon</ins>, Gyoung S. Na, Sein Kim, Chanyoung Park.
 29th ACM SIGKDD Conference on KDD. Applied Data Science Track. **(KDD'23)**
 
 **Unbiased Heterogeneous Scene Graph Generation with Relation-aware Message Passing Neural Network.**  [[pdf](https://arxiv.org/abs/2212.00443)], [[code](https://github.com/KanghoonYoon/hetsgg-torch)]  
-<ins>Kanghoon Yoon</ins>*. Kibum Kim*. Jinyoung Moon. Chanyoung Park.  
+<ins>Kanghoon Yoon</ins>\*, Kibum Kim\*, Jinyoung Moon, Chanyoung Park.  
 Thirty-Seventh AAAI Conference on Artificial Intelligence **(AAAI-23)**  
 
 **LTE4G: Long-Tail Experts for Graph Neural Networks.**  [[pdf](https://dl.acm.org/doi/abs/10.1145/3511808.3557381)], [[code](https://github.com/SukwonYun/LTE4G)]  
