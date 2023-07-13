@@ -34,6 +34,10 @@ Electronics and Telecommunications Research Institute (**ETRI**)
 **2019-2020** Personalized User Analysis based on Machine Learning Model  
 **Shinhan Card**
 
+### Talk
+
+**2023** I gave a talk at the top conference session of the Korea Computer Congress.  
+
 
 ### Teaching Assistant
 **2022 Fall** - 2nd Data Science Competition in KAIST.  
