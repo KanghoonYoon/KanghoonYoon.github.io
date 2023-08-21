@@ -5,15 +5,19 @@ title: Research
 
 ### Publication
 
-**Similarity Preserving Adversarial Graph Contrastive Learning.**  [[pdf]()], [[code](https://github.com/KanghoonYoon/)]  
+**Class Label-aware Graph Anomaly Detection** [[pdf]()], [[code]()]  
+Junghoon Kim, Yeonjun In, <ins>Kanghoon Yoon</ins>, Junmo Lee, Chanyoung Park  
+CIKM 2023 - ACM International Conference on Information and Knowledge Management (Short paper) 
+
+**Similarity Preserving Adversarial Graph Contrastive Learning.**  [[pdf](https://dl.acm.org/doi/10.1145/3580305.3599503)], [[code](https://github.com/yeonjun-in/torch-SP-AGCL)]  
 Yeonjun In\*, <ins>Kanghoon Yoon</ins>\*, Chanyoung Park.  
 29th ACM SIGKDD Conference on KDD. Research Track. **(KDD'23)**
 
-**Molecular Pair Scoring with Causal Substructure.**  [[pdf]()], [[code](https://github.com/KanghoonYoon/)]  
+**Molecular Pair Scoring with Causal Substructure.**  [[pdf](https://dl.acm.org/doi/abs/10.1145/3580305.3599437)], [[code](https://github.com/Namkyeong/CMRL)]  
 Namkyeong Lee, <ins>Kanghoon Yoon</ins>, Gyoung S. Na, Sein Kim, Chanyoung Park.  
 29th ACM SIGKDD Conference on KDD. Research Track. **(KDD'23)**
 
-**Learning Multivariate Hawkes Process via Graph Recurrent Neural Network.**  [[pdf]()], [[code](https://github.com/KanghoonYoon/)]  
+**Learning Multivariate Hawkes Process via Graph Recurrent Neural Network.**  [[pdf](https://dl.acm.org/doi/10.1145/3580305.3599857)], [[code](https://github.com/im0j/GRTPP)]  
 <ins>Kanghoon Yoon</ins>\*. Youngjun Im\*. Jingyu Choi, Taehwan Jeong, Jinkyoo Park.   
 29th ACM SIGKDD Conference on KDD. Applied Data Science Track. **(KDD'23)**
 
