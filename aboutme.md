@@ -13,7 +13,7 @@ CIKM 2023 - ACM International Conference on Information and Knowledge Management
 Yeonjun In\*, <ins>Kanghoon Yoon</ins>\*, Chanyoung Park.  
 29th ACM SIGKDD Conference on KDD. Research Track. **(KDD'23)**
 
-**Molecular Pair Scoring with Causal Substructure.**  [[pdf](https://dl.acm.org/doi/abs/10.1145/3580305.3599437)], [[code](https://github.com/Namkyeong/CMRL)]  
+**Shift-Robust Molecular Relational Learning with Causal Substructure.**  [[pdf](https://dl.acm.org/doi/abs/10.1145/3580305.3599437)], [[code](https://github.com/Namkyeong/CMRL)]  
 Namkyeong Lee, <ins>Kanghoon Yoon</ins>, Gyoung S. Na, Sein Kim, Chanyoung Park.  
 29th ACM SIGKDD Conference on KDD. Research Track. **(KDD'23)**
 
