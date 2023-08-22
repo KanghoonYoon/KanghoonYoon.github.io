@@ -3,8 +3,6 @@ layout: page
 full-width: true
 ---
 
-# Publication
-
 ### Conference Paper
 
 **Class Label-aware Graph Anomaly Detection** [[pdf]()], [[code]()]  
