@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Publication
+full-width: true
 ---
 
 ### Conference Paper
