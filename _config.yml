@@ -22,7 +22,7 @@ author: Kanghoon Yoon
 navbar-links:
   CV: "assets/resume_kanghoon.pdf"
   Publication: "aboutme"
-  Research: "research"
+  Project: "project"
   # Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   # - Learn markdown: "https://www.markdowntutorial.com/"
