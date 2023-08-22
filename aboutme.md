@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Research
+title: Publication
 ---
 
-### Publication
+### Conference Paper
 
 **Class Label-aware Graph Anomaly Detection** [[pdf]()], [[code]()]  
 Junghoon Kim, Yeonjun In, <ins>Kanghoon Yoon</ins>, Junmo Lee, Chanyoung Park  
@@ -28,6 +28,8 @@ Thirty-Seventh AAAI Conference on Artificial Intelligence **(AAAI-23)**
 **LTE4G: Long-Tail Experts for Graph Neural Networks.**  [[pdf](https://dl.acm.org/doi/abs/10.1145/3511808.3557381)], [[code](https://github.com/SukwonYun/LTE4G)]  
 Sukwon Yun, Kibum Kim, <ins>Kanghoon Yoon</ins>, Chanyoung Park.  
 ACM International Conference on Information and Knowledge Management (**CIKM-22**)
+
+### Journal
 
 ### Project
 
