@@ -13,6 +13,10 @@ Electronics and Telecommunications Research Institute (**ETRI**)
 **2019-2020** Personalized User Analysis based on Machine Learning Model  
 **Shinhan Card**
 
+
+### Experience
+Reviewer of AAAI-24.
+
 ### Talk
 
 **2023** I gave a talk at the top conference session of the Korea Computer Congress.  
