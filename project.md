@@ -18,12 +18,12 @@ Electronics and Telecommunications Research Institute (**ETRI**)
 Reviewer of AAAI-24.
 
 ### Talk
-
-**2023** I gave a talk at the top conference session of the Korea Computer Congress.  
+**Dec, 2023** I gave a talk at the top conference session of the Korea Software Congress.  
+**Aug, 2023** I gave a talk at the top conference session of the Korea Computer Congress.  
 
 ### Teaching Assistant
-**2022 Fall** - 2nd Data Science Competition in KAIST.  
-**2021 Fall** - LG AI Process Education, Intermediate Course.  
-**2020 Fall** - LG AI Process Education, Beginner Course.  
-**2020 Spring** - IE241, Engineering Statistics.
+**Aug-Dec, 2022** - 2nd Data Science Competition in KAIST.  
+**Oct-Dec, 2021** - LG AI Process Education, Intermediate Course.  
+**Aug, 2020** - LG AI Process Education, Beginner Course.  
+**March-June, 2020** - IE241, Engineering Statistics.
 
