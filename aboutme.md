@@ -6,9 +6,13 @@ full-width: true
 
 ### Conference Paper
 
-**Class Label-aware Graph Anomaly Detection** [[pdf]()], [[code]()]  
+**Adaptive Self-training Framework for Fine-grained Scene Graph Generation** [[pdf]()], [[code]()]  
 Junghoon Kim, Yeonjun In, <ins>Kanghoon Yoon</ins>, Junmo Lee, Chanyoung Park  
 ACM International Conference on Information and Knowledge Management. Short paper. **(CIKM-23)** 
+
+**Class Label-aware Graph Anomaly Detection** [[pdf]()], [[code]()]  
+Kibum Kim\*, <ins>Kanghoon Yoon</ins>\*, Yeonjun In, Jinyoung Moon, Donghyun Kim, Chanyoung Park
+International Conference of Learning Representation **(ICLR 2024)** 
 
 **Similarity Preserving Adversarial Graph Contrastive Learning.**  [[pdf](https://dl.acm.org/doi/10.1145/3580305.3599503)], [[code](https://github.com/yeonjun-in/torch-SP-AGCL)]  
 Yeonjun In\*, <ins>Kanghoon Yoon</ins>\*, Chanyoung Park.  
