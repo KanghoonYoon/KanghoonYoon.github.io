@@ -8,7 +8,7 @@ full-width: true
 
 **Adaptive Self-training Framework for Fine-grained Scene Graph Generation** [[pdf]()], [[code]()]  
 Kibum Kim\*, <ins>Kanghoon Yoon</ins>\*, Yeonjun In, Jinyoung Moon, Donghyun Kim, Chanyoung Park
-International Conference of Learning Representation **(ICLR 2024)** 
+The Twelfth International Conference on Learning Representations **(ICLR 2024)** 
 
 **Class Label-aware Graph Anomaly Detection** [[pdf]()], [[code]()]  
 Junghoon Kim, Yeonjun In, <ins>Kanghoon Yoon</ins>, Junmo Lee, Chanyoung Park  
