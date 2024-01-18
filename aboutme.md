@@ -5,12 +5,10 @@ full-width: true
 ---
 
 ### Preprint
-
-### Conference Paper
 **LLM4SGG: Large Language Model for Weakly Supervised Scene Graph Generation** [[pdf]()], [[code]()]  
 Kibum Kim, <ins>Kanghoon Yoon</ins>, Jaehyeong Jeon, Yeonjun In, Jinyoung Moon, Donghyun Kim, Chanyoung Park
 
-
+### Conference Paper
 **Adaptive Self-training Framework for Fine-grained Scene Graph Generation** [[pdf]()], [[code]()]  
 Kibum Kim\*, <ins>Kanghoon Yoon</ins>\*, Yeonjun In, Jinyoung Moon, Donghyun Kim, Chanyoung Park  
 The Twelfth International Conference on Learning Representations **(ICLR 2024)** 
