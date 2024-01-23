@@ -10,9 +10,9 @@ Kibum Kim, <ins>Kanghoon Yoon</ins>, Jaehyeong Jeon, Yeonjun In, Jinyoung Moon, 
 
 ### Conference Paper
 
-**Self-guided Robust Graph Structure Refinement** [[pdf]()], [[code]()] 
-Yeonjun In, <ins>Kanghoon Yoon</ins>, Kibum Kim, Kijung Shin, Chanyoung Park
-The 2024 ACM Web Conference 
+**Self-guided Robust Graph Structure Refinement** [[pdf]()], [[code]()]  
+Yeonjun In, <ins>Kanghoon Yoon</ins>, Kibum Kim, Kijung Shin, Chanyoung Park 
+The 2024 ACM Web Conference **(WWW 2024)**  
 
 **Adaptive Self-training Framework for Fine-grained Scene Graph Generation** [[pdf]()], [[code]()]  
 Kibum Kim\*, <ins>Kanghoon Yoon</ins>\*, Yeonjun In, Jinyoung Moon, Donghyun Kim, Chanyoung Park  
