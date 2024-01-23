@@ -9,6 +9,11 @@ full-width: true
 Kibum Kim, <ins>Kanghoon Yoon</ins>, Jaehyeong Jeon, Yeonjun In, Jinyoung Moon, Donghyun Kim, Chanyoung Park
 
 ### Conference Paper
+
+**Self-guided Robust Graph Structure Refinement** [[pdf]()], [[code]()] 
+Yeonjun In, <ins>Kanghoon Yoon</ins>, Kibum Kim, Kijung Shin, Chanyoung Park
+The 2024 ACM Web Conference 
+
 **Adaptive Self-training Framework for Fine-grained Scene Graph Generation** [[pdf]()], [[code]()]  
 Kibum Kim\*, <ins>Kanghoon Yoon</ins>\*, Yeonjun In, Jinyoung Moon, Donghyun Kim, Chanyoung Park  
 The Twelfth International Conference on Learning Representations **(ICLR 2024)** 
