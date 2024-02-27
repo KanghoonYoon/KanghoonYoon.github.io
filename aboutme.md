@@ -5,12 +5,14 @@ full-width: true
 ---
 
 ### Preprint
-**LLM4SGG: Large Language Model for Weakly Supervised Scene Graph Generation** [[pdf]()], [[code]()]  
-Kibum Kim, <ins>Kanghoon Yoon</ins>, Jaehyeong Jeon, Yeonjun In, Jinyoung Moon, Donghyun Kim, Chanyoung Park
 
 ### Conference Paper
 
-**Self-guided Robust Graph Structure Refinement** [[pdf]()], [[code]()]  
+**LLM4SGG: Large Language Model for Weakly Supervised Scene Graph Generation** [[pdf]()], [[code]()]  
+Kibum Kim, <ins>Kanghoon Yoon</ins>, Jaehyeong Jeon, Yeonjun In, Jinyoung Moon, Donghyun Kim, Chanyoung Park  
+In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024)  
+
+**Self-guided Robust Graph Structure Refinement** [[pdf]()], [[code](https://github.com/yeonjun-in/torch-sg-gsr)]  
 Yeonjun In, <ins>Kanghoon Yoon</ins>, Kibum Kim, Kijung Shin, Chanyoung Park  
 The 2024 ACM Web Conference **(WWW 2024)**  
 
@@ -18,7 +20,7 @@ The 2024 ACM Web Conference **(WWW 2024)**
 Kibum Kim\*, <ins>Kanghoon Yoon</ins>\*, Yeonjun In, Jinyoung Moon, Donghyun Kim, Chanyoung Park  
 The Twelfth International Conference on Learning Representations **(ICLR 2024)** 
 
-**Class Label-aware Graph Anomaly Detection** [[pdf]()], [[code]()]  
+**Class Label-aware Graph Anomaly Detection** [[pdf](https://dl.acm.org/doi/abs/10.1145/3583780.3615249)], [[code](https://github.com/jhkim611/CLAD)]  
 Junghoon Kim, Yeonjun In, <ins>Kanghoon Yoon</ins>, Junmo Lee, Chanyoung Park  
 ACM International Conference on Information and Knowledge Management. Short paper. **(CIKM-23)** 
 
