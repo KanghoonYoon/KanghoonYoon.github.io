@@ -14,7 +14,7 @@ In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recogni
 
 **Self-guided Robust Graph Structure Refinement** [[pdf]()], [[code](https://github.com/yeonjun-in/torch-sg-gsr)]  
 Yeonjun In, <ins>Kanghoon Yoon</ins>, Kibum Kim, Kijung Shin, Chanyoung Park  
-The 2024 ACM Web Conference **(WWW 2024)**  
+The 2024 ACM Web Conference **<ins>Oral</ins>** **(WWW 2024)**  
 
 **Adaptive Self-training Framework for Fine-grained Scene Graph Generation** [[pdf]()], [[code]()]  
 Kibum Kim\*, <ins>Kanghoon Yoon</ins>\*, Yeonjun In, Jinyoung Moon, Donghyun Kim, Chanyoung Park  
