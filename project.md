@@ -16,8 +16,7 @@ Electronics and Telecommunications Research Institute (**ETRI**)
 
 ### Working Experience / Academic Services
 
-**June-Sep, 2024** Research Internship, Qualcomm AI, San Diego.
-
+**June-Sep, 2024** Research Internship, Qualcomm AI, San Diego. 
 **Jan-Dec, 2024** Reviewer of AAAI-24, KDD'24
 
 ### Talk
