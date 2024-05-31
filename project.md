@@ -6,7 +6,7 @@ title: Project
 
 ### Project
 
-**2021- Now** Visual Intelligence Technique Development  
+**2021-2025** Visual Intelligence Technique Development  
 Electronics and Telecommunications Research Institute (**ETRI**)  
 **2020-2021** Recommendation System for Personalized User and Stores  
 **Shinhan Card**  
@@ -14,8 +14,11 @@ Electronics and Telecommunications Research Institute (**ETRI**)
 **Shinhan Card**
 
 
-### Experience
-Reviewer of AAAI-24.
+### Working Experience / Academic Services
+
+**June-Sep, 2024** Research Internship, Qualcomm AI, San Diego.
+
+**Jan-Dec, 2024** Reviewer of AAAI-24, KDD'24
 
 ### Talk
 **Dec, 2023** I gave a talk at the top conference session of the Korea Software Congress.  
