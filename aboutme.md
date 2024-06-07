@@ -6,6 +6,9 @@ full-width: true
 
 ### Preprint
 
+**Retrieval‑Augmented Scene Graph Generation via Multi‑Prototype Learning.**  
+<ins>Kanghoon Yoon<\ins>, Kibum Kim, Jaehyeong Jeon, Yeonjun In, Donghyun Kim, Chanyoung Park.  
+
 ### Conference Paper
 
 **LLM4SGG: Large Language Model for Weakly Supervised Scene Graph Generation** [[pdf]()], [[code]()]  
