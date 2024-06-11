@@ -14,14 +14,6 @@ Electronics and Telecommunications Research Institute (**ETRI**)
 **Shinhan Card**
 
 
-### Working Experience / Academic Services
-
-**June-Sep, 2024** Research Internship, Qualcomm AI, San Diego.  
-**Jan-Dec, 2024** Reviewer of AAAI-24, KDD'24
-
-### Talk
-**Dec, 2023** I gave a talk at the top conference session of the Korea Software Congress.  
-**Aug, 2023** I gave a talk at the top conference session of the Korea Computer Congress.  
 
 ### Teaching Assistant
 **Aug-Dec, 2022** - 2nd Data Science Competition in KAIST.  
