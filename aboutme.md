@@ -13,11 +13,11 @@ full-width: true
 
 **Semantic Diversity-aware Prototye-based Learning for Unbiased Scene Graph Generation** [[pdf]()], [[code]()]  
 Jaehyung Jeon, Kibum Kim, <ins>Kanghoon Yoon</ins>, Chanyoung Park  
-The 18th European Conference on Computer Vision (ECCV 2024)  
+The 18th European Conference on Computer Vision **(ECCV 2024)**  
 
 **LLM4SGG: Large Language Model for Weakly Supervised Scene Graph Generation** [[pdf]()], [[code]()]  
 Kibum Kim, <ins>Kanghoon Yoon</ins>, Jaehyeong Jeon, Yeonjun In, Jinyoung Moon, Donghyun Kim, Chanyoung Park  
-In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024)  
+In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR 2024)**  
 
 **Self-guided Robust Graph Structure Refinement** [[pdf]()], [[code](https://github.com/yeonjun-in/torch-sg-gsr)]  
 Yeonjun In, <ins>Kanghoon Yoon</ins>, Kibum Kim, Kijung Shin, Chanyoung Park  
