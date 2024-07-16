@@ -33,7 +33,7 @@ The Twelfth International Conference on Learning Representations **(ICLR 2024)**
 
 **Class Label-aware Graph Anomaly Detection** [[pdf](https://dl.acm.org/doi/abs/10.1145/3583780.3615249)], [[code](https://github.com/jhkim611/CLAD)]  
 Junghoon Kim, Yeonjun In, <ins>Kanghoon Yoon</ins>, Junmo Lee, Chanyoung Park  
-ACM International Conference on Information and Knowledge Management. Short paper. **(CIKM-23)** 
+ACM International Conference on Information and Knowledge Management. Short paper. **(CIKM 2023)** 
 
 **Similarity Preserving Adversarial Graph Contrastive Learning.**  [[pdf](https://dl.acm.org/doi/10.1145/3580305.3599503)], [[code](https://github.com/yeonjun-in/torch-SP-AGCL)]  
 Yeonjun In\*, <ins>Kanghoon Yoon</ins>\*, Chanyoung Park.  
