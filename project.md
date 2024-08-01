@@ -8,7 +8,7 @@ title: Project
 
 
 **2024** Efficient Large Language Model  
-Qualcomm @ San Diego, U.S 
+**Qualcomm** @ San Diego, U.S  
 **2021-2025** Visual Intelligence Technique Development  
 Electronics and Telecommunications Research Institute (**ETRI**), Korea  
 **2020-2021** Recommendation System for Personalized User and Stores  
