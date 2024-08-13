@@ -4,12 +4,14 @@ title: Publication
 full-width: true
 ---
 
-### Preprint
+## Preprint
 
 **Retrieval‑Augmented Scene Graph Generation via Multi‑Prototype Learning.**  
 <ins>Kanghoon Yoon</ins>, Kibum Kim, Jaehyeong Jeon, Yeonjun In, Donghyun Kim, Chanyoung Park.  
 
-### Conference Paper
+## Conference Paper
+
+### 2024
 
 **Debiased Graph Poisoning Attack via Contrastive Surrogate Objective** [[pdf]()], [[code]()]  
 <ins>Kanghoon Yoon</ins>, Yeonjun In, Namkyeong Lee, Kibum Kim, Chanyoung Park  
@@ -31,6 +33,8 @@ The 2024 ACM Web Conference **_(Oral)_** **(WWW 2024)**
 Kibum Kim\*, <ins>Kanghoon Yoon</ins>\*, Yeonjun In, Jinyoung Moon, Donghyun Kim, Chanyoung Park  
 The Twelfth International Conference on Learning Representations **(ICLR 2024)** 
 
+### 2023
+
 **Class Label-aware Graph Anomaly Detection** [[pdf](https://dl.acm.org/doi/abs/10.1145/3583780.3615249)], [[code](https://github.com/jhkim611/CLAD)]  
 Junghoon Kim, Yeonjun In, <ins>Kanghoon Yoon</ins>, Junmo Lee, Chanyoung Park  
 ACM International Conference on Information and Knowledge Management. Short paper. **(CIKM 2023)** 
@@ -51,8 +55,10 @@ Namkyeong Lee, <ins>Kanghoon Yoon</ins>, Gyoung S. Na, Sein Kim, Chanyoung Park.
 <ins>Kanghoon Yoon</ins>\*, Kibum Kim\*, Jinyoung Moon, Chanyoung Park.  
 Thirty-Seventh AAAI Conference on Artificial Intelligence **(AAAI-23)**  
 
+### 2022
+
 **LTE4G: Long-Tail Experts for Graph Neural Networks.**  [[pdf](https://dl.acm.org/doi/abs/10.1145/3511808.3557381)], [[code](https://github.com/SukwonYun/LTE4G)]  
 Sukwon Yun, Kibum Kim, <ins>Kanghoon Yoon</ins>, Chanyoung Park.  
 ACM International Conference on Information and Knowledge Management **(CIKM-22)**
 
-### Journal
+## Journal
