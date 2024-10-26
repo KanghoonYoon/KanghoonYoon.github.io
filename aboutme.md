@@ -69,3 +69,11 @@ Sukwon Yun, Kibum Kim, <ins>Kanghoon Yoon</ins>, Chanyoung Park.
 ACM International Conference on Information and Knowledge Management **(CIKM-22)**
 
 ## Journal
+
+### 2024
+
+**Generating Fine-grained Scene Graph via Heterogeneous Graph Learning.**  [[pdf]()], [[code]()]  
+<ins>Kanghoon Yoon</ins>, Kibum Kim, Jinyoung Moon, Chanyoung Park.  
+IEEE Transactions on Neural Networks and Learning Systems (TNNLS) **IF 14.3**
+
+
