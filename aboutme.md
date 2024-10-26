@@ -11,6 +11,12 @@ full-width: true
 
 ## Conference Paper
 
+### 2025
+
+**Revisiting Fake News Detection: Towards Temporality-aware Evaluation by Leveraging Engagement Earliness** [[pdf]()], [[code]()]  
+Junghoon Kim, Junmo Lee, Yeonjun In, <ins>Kanghoon Yoon</ins>, Chanyoung Park  
+The 18th ACM International Conference on Web Search and Data Mining **(WSDM 2025)**  
+
 ### 2024
 
 **Debiased Graph Poisoning Attack via Contrastive Surrogate Objective** [[pdf]()], [[code]()]  
@@ -20,6 +26,7 @@ ACM International Conference on Information and Knowledge Management **(CIKM 202
 **Semantic Diversity-aware Prototye-based Learning for Unbiased Scene Graph Generation** [[pdf]()], [[code]()]  
 Jaehyung Jeon, Kibum Kim, <ins>Kanghoon Yoon</ins>, Chanyoung Park  
 The 18th European Conference on Computer Vision **(ECCV 2024)**  
+
 
 **LLM4SGG: Large Language Model for Weakly Supervised Scene Graph Generation** [[pdf](https://openaccess.thecvf.com/content/CVPR2024/html/Kim_LLM4SGG_Large_Language_Models_for_Weakly_Supervised_Scene_Graph_Generation_CVPR_2024_paper.html)], [[code](https://github.com/rlqja1107/torch-LLM4SGG)]  
 Kibum Kim, <ins>Kanghoon Yoon</ins>, Jaehyeong Jeon, Yeonjun In, Jinyoung Moon, Donghyun Kim, Chanyoung Park  
