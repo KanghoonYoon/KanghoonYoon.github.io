@@ -6,12 +6,14 @@ full-width: true
 
 ## Preprint
 
-**Retrieval‑Augmented Scene Graph Generation via Multi‑Prototype Learning.**  
-<ins>Kanghoon Yoon</ins>, Kibum Kim, Jaehyeong Jeon, Yeonjun In, Donghyun Kim, Chanyoung Park.  
 
 ## Conference Paper
 
 ### 2025
+
+**Retrieval‑Augmented Scene Graph Generation via Multi‑Prototype Learning.**  
+<ins>Kanghoon Yoon</ins>, Kibum Kim, Jaehyeong Jeon, Yeonjun In, Donghyun Kim, Chanyoung Park.  
+Thirty-Ninth AAAI Conference on Artificial Intelligence **(AAAI-25)**  
 
 **Revisiting Fake News Detection: Towards Temporality-aware Evaluation by Leveraging Engagement Earliness** [[pdf]()], [[code]()]  
 Junghoon Kim, Junmo Lee, Yeonjun In, <ins>Kanghoon Yoon</ins>, Chanyoung Park  
@@ -67,8 +69,4 @@ Thirty-Seventh AAAI Conference on Artificial Intelligence **(AAAI-23)**
 **LTE4G: Long-Tail Experts for Graph Neural Networks.**  [[pdf](https://dl.acm.org/doi/abs/10.1145/3511808.3557381)], [[code](https://github.com/SukwonYun/LTE4G)]  
 Sukwon Yun, Kibum Kim, <ins>Kanghoon Yoon</ins>, Chanyoung Park.  
 ACM International Conference on Information and Knowledge Management **(CIKM-22)**
-
-## Journal
-
-
 
