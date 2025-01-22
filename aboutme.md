@@ -11,6 +11,10 @@ full-width: true
 
 ### 2025
 
+**Weakly Supervised Video Scene Graph Generation via Natural Language Supervision.**  
+Kibum Kim, <ins>Kanghoon Yoon</ins>, Jaehyeong Jeon, Yeonjun In, Donghyun Kim, Chanyoung Park.  
+The Thirteenth International Conference on Learning Representations **(ICLR 2025)**  
+
 **Retrieval‑Augmented Scene Graph Generation via Multi‑Prototype Learning.**  
 <ins>Kanghoon Yoon</ins>, Kibum Kim, Jaehyeong Jeon, Yeonjun In, Donghyun Kim, Chanyoung Park.  
 Thirty-Ninth AAAI Conference on Artificial Intelligence **(AAAI-25)**  
