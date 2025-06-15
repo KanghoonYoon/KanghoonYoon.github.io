@@ -1118,3 +1118,33 @@ pre {
     display: inline-block;
   }
 }
+
+/* Custom width overrides for wider pages */
+.container {
+  max-width: 1400px !important;
+}
+
+/* Responsive breakpoints for different screen sizes */
+@media (min-width: 576px) {
+  .container {
+    max-width: 540px;
+  }
+}
+
+@media (min-width: 768px) {
+  .container {
+    max-width: 900px; /* Increased from Bootstrap's default 720px */
+  }
+}
+
+@media (min-width: 992px) {
+  .container {
+    max-width: 1200px; /* Increased from Bootstrap's default 960px */
+  }
+}
+
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1400px; /* Increased from Bootstrap's default 1140px */
+  }
+}
