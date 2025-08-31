@@ -11,6 +11,10 @@ full-width: true
 
 ### 2025
 
+**Is Safety Standard Same for Everyone? User-Specific Safety Evaluation of Large Language Models.**  
+Yeonjun In, Wonjoong Kim, <ins>Kanghoon Yoon</ins>, Sungchul Kim, Mehrab Tanjim, Kibum Kim, Chanyoung Park  
+The 2025 Conference on Empirical Methods in Natural Language Processing **(EMNLP, Findings)**  
+
 **Weakly Supervised Video Scene Graph Generation via Natural Language Supervision.**  
 Kibum Kim, <ins>Kanghoon Yoon</ins>, Jaehyeong Jeon, Yeonjun In, Donghyun Kim, Chanyoung Park.  
 The Thirteenth International Conference on Learning Representations **(ICLR 2025)**  
