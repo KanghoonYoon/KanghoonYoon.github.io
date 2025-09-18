@@ -9,11 +9,11 @@ full-width: true
 
 ## Conference Paper
 
-### 2025
+### 2025 
 
-**Is Safety Standard Same for Everyone? User-Specific Safety Evaluation of Large Language Models.**  
-Yeonjun In, Wonjoong Kim, <ins>Kanghoon Yoon</ins>, Sungchul Kim, Mehrab Tanjim, Kibum Kim, Chanyoung Park  
-The 2025 Conference on Empirical Methods in Natural Language Processing **(EMNLP, Findings)**  
+**Training Robust Graph Neural Networks by Modeling Noise Dependencies**  
+Yeonjun In, <ins>Kanghoon Yoon</ins>, Sukwon Yun, Kibum Kim, Sungchul Kim, Chanyoung Park. 
+The Thirty-Ninth Annual Conference on Neural Information Processing Systems **(NeurIPS 2025)**  
 
 **Weakly Supervised Video Scene Graph Generation via Natural Language Supervision.**  
 Kibum Kim, <ins>Kanghoon Yoon</ins>, Jaehyeong Jeon, Yeonjun In, Donghyun Kim, Chanyoung Park.  
