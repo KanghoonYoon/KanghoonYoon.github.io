@@ -12,7 +12,7 @@ full-width: true
 ### 2025 
 
 **Training Robust Graph Neural Networks by Modeling Noise Dependencies**  
-Yeonjun In, <ins>Kanghoon Yoon</ins>, Sukwon Yun, Kibum Kim, Sungchul Kim, Chanyoung Park. 
+Yeonjun In, <ins>Kanghoon Yoon</ins>, Sukwon Yun, Kibum Kim, Sungchul Kim, Chanyoung Park.  
 The Thirty-Ninth Annual Conference on Neural Information Processing Systems **(NeurIPS 2025)**  
 
 **Weakly Supervised Video Scene Graph Generation via Natural Language Supervision.**  
