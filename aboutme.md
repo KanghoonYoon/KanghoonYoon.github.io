@@ -9,6 +9,13 @@ full-width: true
 
 ## Conference Paper
 
+### 2026 
+
+**Image is All You Need: Towards Efficient and Effective Large Language Model-Based Recommender Systems**  
+Kibum Kim, Sein Kim, Hongseok Kang, Jiwan Kim, Heewoong Noh, Yeonjun In, <ins>Kanghoon Yoon</ins>, Jinoh Oh, Chanyoung Park  
+The Fourteenth International Conference on Learning Representations **(ICLR 2026)**  
+
+
 ### 2025 
 
 **Training Robust Graph Neural Networks by Modeling Noise Dependencies**  
