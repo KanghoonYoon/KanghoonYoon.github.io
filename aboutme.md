@@ -11,6 +11,10 @@ full-width: true
 
 ### 2026 
 
+**SelfJudge: Faster Speculative Decoding via Self-Supervised Judge Verification**  
+<ins>Kanghoon Yoon</ins>, Minsub Kim, Sungjae Lee, Joonhyung Lee, Sunghyeon Woo, Yeonjun In, Se Jung Kwon, Chanyoung Park, Dongsoo Lee  
+Forty-Third International Conference on Machine Learning **(ICML 2026)**  
+
 **Image is All You Need: Towards Efficient and Effective Large Language Model-Based Recommender Systems**  
 Kibum Kim, Sein Kim, Hongseok Kang, Jiwan Kim, Heewoong Noh, Yeonjun In, <ins>Kanghoon Yoon</ins>, Jinoh Oh, Chanyoung Park  
 The Fourteenth International Conference on Learning Representations **(ICLR 2026)**  
