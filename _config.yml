@@ -55,11 +55,12 @@ round-avatar: false
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "ykhoon08@kaist.ac.kr"
+  email: "ykhoon0827@gmail.com"
 # rss: true  # remove this line if you don't want to show an RSS link at the bottom
 # facebook: deanattali
   github: "KanghoonYoon"
   twitter: "KanghooYoon"
+  google-scholar: https://scholar.google.com/citations?user=cHwMvgYAAAAJ&hl=en
 # patreon: DeanAttali
 # youtube: c/daattali
 #  medium: yourname
@@ -78,7 +79,6 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-#  google-scholar: your google scholar
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
 #  hackerrank: yourname
