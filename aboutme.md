@@ -96,7 +96,8 @@ ACM International Conference on Information and Knowledge Management **(CIKM-22)
 
 **A New DAWN for Fake News Detection: Leveraging Engagement Earliness for Temporality-aware Evaluation.**  [[pdf](https://dl.acm.org/doi/abs/10.1145/3511808.3557381)], [[code](https://github.com/SukwonYun/LTE4G)]  
 Junghoon Kim*, Junmo Lee*, Yeonjun In, <ins>Kanghoon Yoon</ins>, Chanyoung Park.  
-ACM International Conference on Information and Knowledge Management (2026)
+ACM Transactions on Intelligent Systems and Technology
+
 
 
 
