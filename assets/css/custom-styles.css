@@ -374,7 +374,11 @@ footer .footer-links a {
 .profile-photo {
   flex: 0 0 auto;
   width: 10.5rem;
-  aspect-ratio: 5 / 6;
+  /* `height: auto` is required: the <img> carries width/height attributes for
+     layout stability, and without it that height wins and aspect-ratio is
+     ignored, rendering the photo 600px tall. */
+  height: auto;
+  aspect-ratio: 1 / 1;
   object-fit: cover;
   border-radius: var(--radius);
   border: 1px solid var(--border);
