@@ -364,28 +364,39 @@ footer .footer-links a {
 
 /* --- Profile ------------------------------------------------------------ */
 
+/* The photo floats so the bio wraps beside it and then reflows to the full
+   measure underneath. A flex row would instead pin the whole bio into a
+   narrow column and leave dead space below the photo. */
 .profile {
-  display: flex;
-  align-items: flex-start;
-  gap: 1.75rem;
+  display: block;
   margin-bottom: 1rem;
 }
 
+.profile::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 .profile-photo {
-  flex: 0 0 auto;
-  width: 10.5rem;
+  float: left;
+  margin: 0.4rem 1.5rem 0.75rem 0;
+  /* 144 x 192 — a 3:4 ID photo at roughly its printed 3cm x 4cm scale.
+     The source file is cropped to the same ratio, so nothing is cut here. */
+  width: 9rem;
   /* `height: auto` is required: the <img> carries width/height attributes for
      layout stability, and without it that height wins and aspect-ratio is
      ignored, rendering the photo 600px tall. */
   height: auto;
-  aspect-ratio: 1 / 1;
+  aspect-ratio: 3 / 4;
   object-fit: cover;
   border-radius: var(--radius);
   border: 1px solid var(--border);
 }
 
+/* No BFC here (no overflow/flex on .profile-body) — the text must be allowed
+   to wrap around the floated photo. */
 .profile-body {
-  flex: 1 1 auto;
   min-width: 0;
 }
 
@@ -409,20 +420,24 @@ footer .footer-links a {
   margin-bottom: 0.9rem;
 }
 
+/* A flex container will not overlap a float, so clear it: the buttons always
+   start on a clean full-width line rather than being squeezed beside the photo. */
 .profile-actions {
+  clear: both;
   display: flex;
   flex-wrap: wrap;
   gap: 0.5rem;
   margin-top: 1.25rem;
 }
 
+/* Below this width the wrapped column gets too narrow to read, so the photo
+   stops floating and the bio takes the full measure. */
 @media (max-width: 575px) {
-  .profile {
-    flex-direction: column;
-    gap: 1.25rem;
-  }
   .profile-photo {
-    width: 8.5rem;
+    float: none;
+    display: block;
+    width: 8rem;
+    margin: 0 0 1.25rem;
   }
 }
 
