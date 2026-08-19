@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Publication
-full-width: true
+subtitle: Peer-reviewed conference and journal papers
+page-class: pub-list
 ---
 
 ## Preprint
