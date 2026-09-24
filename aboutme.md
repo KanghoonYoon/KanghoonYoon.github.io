@@ -13,67 +13,67 @@ page-class: pub-list
 
 ### 2026 
 
-**SelfJudge: Faster Speculative Decoding via Self-Supervised Judge Verification**  
+**SelfJudge: Faster Speculative Decoding via Self-Supervised Judge Verification** [[arXiv](https://arxiv.org/abs/2510.02329)]  
 <ins>Kanghoon Yoon</ins>, Minsub Kim, Sungjae Lee, Joonhyung Lee, Sunghyeon Woo, Yeonjun In, Se Jung Kwon, Chanyoung Park, Dongsoo Lee  
 Forty-Third International Conference on Machine Learning **(ICML 2026)**  
 
-**Image is All You Need: Towards Efficient and Effective Large Language Model-Based Recommender Systems**  
+**Image is All You Need: Towards Efficient and Effective Large Language Model-Based Recommender Systems** [[arXiv](https://arxiv.org/abs/2503.06238)], [[code](https://github.com/rlqja1107/torch-I-LLMRec)]  
 Kibum Kim, Sein Kim, Hongseok Kang, Jiwan Kim, Heewoong Noh, Yeonjun In, <ins>Kanghoon Yoon</ins>, Jinoh Oh, Chanyoung Park  
 The Fourteenth International Conference on Learning Representations **(ICLR 2026)**  
 
 
 ### 2025 
 
-**Training Robust Graph Neural Networks by Modeling Noise Dependencies**  
+**Training Robust Graph Neural Networks by Modeling Noise Dependencies** [[arXiv](https://arxiv.org/abs/2502.19670)], [[code](https://github.com/yeonjun-in/torch-DA-GNN)]  
 Yeonjun In, <ins>Kanghoon Yoon</ins>, Sukwon Yun, Kibum Kim, Sungchul Kim, Chanyoung Park.  
 The Thirty-Ninth Annual Conference on Neural Information Processing Systems **(NeurIPS 2025)**  
 
-**Weakly Supervised Video Scene Graph Generation via Natural Language Supervision.**  
+**Weakly Supervised Video Scene Graph Generation via Natural Language Supervision.** [[arXiv](https://arxiv.org/abs/2502.15370)], [[code](https://github.com/rlqja1107/NL-VSGG)]  
 Kibum Kim, <ins>Kanghoon Yoon</ins>, Jaehyeong Jeon, Yeonjun In, Donghyun Kim, Chanyoung Park.  
 The Thirteenth International Conference on Learning Representations **(ICLR 2025)**  
 
-**Retrieval‑Augmented Scene Graph Generation via Multi‑Prototype Learning.**  
+**Retrieval‑Augmented Scene Graph Generation via Multi‑Prototype Learning.** [[arXiv](https://arxiv.org/abs/2412.12788)], [[code](https://github.com/KanghoonYoon/torch-rasgg)]  
 <ins>Kanghoon Yoon</ins>, Kibum Kim, Jaehyeong Jeon, Yeonjun In, Donghyun Kim, Chanyoung Park.  
 Thirty-Ninth AAAI Conference on Artificial Intelligence **(AAAI-25)**  
 
-**Revisiting Fake News Detection: Towards Temporality-aware Evaluation by Leveraging Engagement Earliness** [[pdf]()], [[code]()]  
+**Revisiting Fake News Detection: Towards Temporality-aware Evaluation by Leveraging Engagement Earliness** [[arXiv](https://arxiv.org/abs/2411.12775)], [[code](https://github.com/LeeJunmo/DAWN)]  
 Junghoon Kim, Junmo Lee, Yeonjun In, <ins>Kanghoon Yoon</ins>, Chanyoung Park  
 The 18th ACM International Conference on Web Search and Data Mining **(WSDM 2025)**  
 
 ### 2024
 
-**Debiased Graph Poisoning Attack via Contrastive Surrogate Objective** [[pdf]()], [[code]()]  
+**Debiased Graph Poisoning Attack via Contrastive Surrogate Objective** [[arXiv](https://arxiv.org/abs/2407.19155)], [[code](https://github.com/KanghoonYoon/torch-metacon)]  
 <ins>Kanghoon Yoon</ins>, Yeonjun In, Namkyeong Lee, Kibum Kim, Chanyoung Park  
 ACM International Conference on Information and Knowledge Management **(CIKM 2024)**  
 
-**Semantic Diversity-aware Prototye-based Learning for Unbiased Scene Graph Generation** [[pdf]()], [[code]()]  
+**Semantic Diversity-aware Prototye-based Learning for Unbiased Scene Graph Generation** [[arXiv](https://arxiv.org/abs/2407.15396)], [[code](https://github.com/JeonJaeHyeong/DPL)]  
 Jaehyung Jeon, Kibum Kim, <ins>Kanghoon Yoon</ins>, Chanyoung Park  
 The 18th European Conference on Computer Vision **(ECCV 2024)**  
 
 
-**LLM4SGG: Large Language Model for Weakly Supervised Scene Graph Generation** [[pdf](https://openaccess.thecvf.com/content/CVPR2024/html/Kim_LLM4SGG_Large_Language_Models_for_Weakly_Supervised_Scene_Graph_Generation_CVPR_2024_paper.html)], [[code](https://github.com/rlqja1107/torch-LLM4SGG)]  
+**LLM4SGG: Large Language Model for Weakly Supervised Scene Graph Generation** [[arXiv](https://arxiv.org/abs/2310.10404)], [[pdf](https://openaccess.thecvf.com/content/CVPR2024/html/Kim_LLM4SGG_Large_Language_Models_for_Weakly_Supervised_Scene_Graph_Generation_CVPR_2024_paper.html)], [[code](https://github.com/rlqja1107/torch-LLM4SGG)]  
 Kibum Kim, <ins>Kanghoon Yoon</ins>, Jaehyeong Jeon, Yeonjun In, Jinyoung Moon, Donghyun Kim, Chanyoung Park  
 In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR 2024)**  
 
-**Self-guided Robust Graph Structure Refinement** [[pdf](https://dl.acm.org/doi/abs/10.1145/3589334.3645522)], [[code](https://github.com/yeonjun-in/torch-sg-gsr)]  
+**Self-guided Robust Graph Structure Refinement** [[arXiv](https://arxiv.org/abs/2402.11837)], [[pdf](https://dl.acm.org/doi/abs/10.1145/3589334.3645522)], [[code](https://github.com/yeonjun-in/torch-sg-gsr)]  
 Yeonjun In, <ins>Kanghoon Yoon</ins>, Kibum Kim, Kijung Shin, Chanyoung Park  
 The 2024 ACM Web Conference **_(Oral)_** **(WWW 2024)**  
 
-**Adaptive Self-training Framework for Fine-grained Scene Graph Generation** [[pdf](https://openreview.net/pdf?id=WipsLtH77t)], [[code](https://github.com/rlqja1107/torch-ST-SGG)]  
+**Adaptive Self-training Framework for Fine-grained Scene Graph Generation** [[arXiv](https://arxiv.org/abs/2401.09786)], [[pdf](https://openreview.net/pdf?id=WipsLtH77t)], [[code](https://github.com/rlqja1107/torch-ST-SGG)]  
 Kibum Kim\*, <ins>Kanghoon Yoon\*</ins>, Yeonjun In, Jinyoung Moon, Donghyun Kim, Chanyoung Park  
 The Twelfth International Conference on Learning Representations **(ICLR 2024)** 
 
 ### 2023
 
-**Class Label-aware Graph Anomaly Detection** [[pdf](https://dl.acm.org/doi/abs/10.1145/3583780.3615249)], [[code](https://github.com/jhkim611/CLAD)]  
+**Class Label-aware Graph Anomaly Detection** [[arXiv](https://arxiv.org/abs/2308.11669)], [[pdf](https://dl.acm.org/doi/abs/10.1145/3583780.3615249)], [[code](https://github.com/jhkim611/CLAD)]  
 Junghoon Kim, Yeonjun In, <ins>Kanghoon Yoon</ins>, Junmo Lee, Chanyoung Park  
 ACM International Conference on Information and Knowledge Management. Short paper. **(CIKM 2023)** 
 
-**Similarity Preserving Adversarial Graph Contrastive Learning.**  [[pdf](https://dl.acm.org/doi/10.1145/3580305.3599503)], [[code](https://github.com/yeonjun-in/torch-SP-AGCL)]  
+**Similarity Preserving Adversarial Graph Contrastive Learning.**  [[arXiv](https://arxiv.org/abs/2306.13854)], [[pdf](https://dl.acm.org/doi/10.1145/3580305.3599503)], [[code](https://github.com/yeonjun-in/torch-SP-AGCL)]  
 Yeonjun In\*, <ins>Kanghoon Yoon\*</ins>, Chanyoung Park.  
 29th ACM SIGKDD Conference on KDD. Research Track. **(KDD'23)**
 
-**Shift-Robust Molecular Relational Learning with Causal Substructure.**  [[pdf](https://dl.acm.org/doi/abs/10.1145/3580305.3599437)], [[code](https://github.com/Namkyeong/CMRL)]  
+**Shift-Robust Molecular Relational Learning with Causal Substructure.**  [[arXiv](https://arxiv.org/abs/2305.18451)], [[pdf](https://dl.acm.org/doi/abs/10.1145/3580305.3599437)], [[code](https://github.com/Namkyeong/CMRL)]  
 Namkyeong Lee, <ins>Kanghoon Yoon</ins>, Gyoung S. Na, Sein Kim, Chanyoung Park.  
 29th ACM SIGKDD Conference on KDD. Research Track. **(KDD'23)**
 
@@ -87,7 +87,7 @@ Thirty-Seventh AAAI Conference on Artificial Intelligence **(AAAI-23)**
 
 ### 2022
 
-**LTE4G: Long-Tail Experts for Graph Neural Networks.**  [[pdf](https://dl.acm.org/doi/abs/10.1145/3511808.3557381)], [[code](https://github.com/SukwonYun/LTE4G)]  
+**LTE4G: Long-Tail Experts for Graph Neural Networks.**  [[arXiv](https://arxiv.org/abs/2208.10205)], [[pdf](https://dl.acm.org/doi/abs/10.1145/3511808.3557381)], [[code](https://github.com/SukwonYun/LTE4G)]  
 Sukwon Yun, Kibum Kim, <ins>Kanghoon Yoon</ins>, Chanyoung Park.  
 ACM International Conference on Information and Knowledge Management **(CIKM-22)**
 
@@ -95,7 +95,7 @@ ACM International Conference on Information and Knowledge Management **(CIKM-22)
 
 ## International Journal 
 
-**A New DAWN for Fake News Detection: Leveraging Engagement Earliness for Temporality-aware Evaluation.**  [[pdf](https://dl.acm.org/doi/abs/10.1145/3511808.3557381)], [[code](https://github.com/SukwonYun/LTE4G)]  
+**A New DAWN for Fake News Detection: Leveraging Engagement Earliness for Temporality-aware Evaluation.**  [[pdf](https://dl.acm.org/doi/10.1145/3815193)], [[code](https://github.com/LeeJunmo/DAWN)]  
 Junghoon Kim*, Junmo Lee*, Yeonjun In, <ins>Kanghoon Yoon</ins>, Chanyoung Park.  
 ACM Transactions on Intelligent Systems and Technology
 
