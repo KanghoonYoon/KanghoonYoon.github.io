@@ -13,6 +13,14 @@ page-class: pub-list
 
 ### 2026 
 
+**Self-EvolveRec: Self-Evolving Recommender Systems with LLM-based Directional Feedback** [[arXiv](https://arxiv.org/abs/2602.12612)], [[code](https://github.com/Sein-Kim/self_evolverec)]  
+Sein Kim, Sangwu Park, Hongseok Kang, Wonjoong Kim, Jimin Seo, Yeonjun In, <ins>Kanghoon Yoon</ins>, Hyunsik Jeon, Chanyoung Park  
+The Fortieth Annual Conference on Neural Information Processing Systems **(NeurIPS 2026)**  
+
+**Personalize-then-Store: Benchmarking and Learning Personalized Memory for Long-horizon Agents** [[arXiv](https://arxiv.org/abs/2605.25535)], [[code](https://github.com/yeonjun-in/PerMemBench)]  
+Yeonjun In, Wonjoong Kim, Sangwu Park, <ins>Kanghoon Yoon</ins>, Chanyoung Park  
+The Fortieth Annual Conference on Neural Information Processing Systems **(NeurIPS 2026)**  
+
 **SelfJudge: Faster Speculative Decoding via Self-Supervised Judge Verification** [[arXiv](https://arxiv.org/abs/2510.02329)]  
 <ins>Kanghoon Yoon</ins>, Minsub Kim, Sungjae Lee, Joonhyung Lee, Sunghyeon Woo, Yeonjun In, Se Jung Kwon, Chanyoung Park, Dongsoo Lee  
 Forty-Third International Conference on Machine Learning **(ICML 2026)**  
@@ -27,6 +35,10 @@ The Fourteenth International Conference on Learning Representations **(ICLR 2026
 **Training Robust Graph Neural Networks by Modeling Noise Dependencies** [[arXiv](https://arxiv.org/abs/2502.19670)], [[code](https://github.com/yeonjun-in/torch-DA-GNN)]  
 Yeonjun In, <ins>Kanghoon Yoon</ins>, Sukwon Yun, Kibum Kim, Sungchul Kim, Chanyoung Park.  
 The Thirty-Ninth Annual Conference on Neural Information Processing Systems **(NeurIPS 2025)**  
+
+**Is Safety Standard Same for Everyone? User-Specific Safety Evaluation of Large Language Models** [[arXiv](https://arxiv.org/abs/2502.15086)], [[code](https://github.com/yeonjun-in/U-SafeBench)]  
+Yeonjun In, Wonjoong Kim, <ins>Kanghoon Yoon</ins>, Sungchul Kim, Mehrab Tanjim, Sangwu Park, Kibum Kim, Chanyoung Park  
+Findings of the Association for Computational Linguistics: EMNLP 2025 **(EMNLP 2025 Findings)**  
 
 **Weakly Supervised Video Scene Graph Generation via Natural Language Supervision.** [[arXiv](https://arxiv.org/abs/2502.15370)], [[code](https://github.com/rlqja1107/NL-VSGG)]  
 Kibum Kim, <ins>Kanghoon Yoon</ins>, Jaehyeong Jeon, Yeonjun In, Donghyun Kim, Chanyoung Park.  
